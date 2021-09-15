@@ -10,19 +10,19 @@ Homework for EPAM Python Training 2021.09
 1. Add your task into created folder
 1. Push finished session task in the appropriate branch in accordance with written above.    
  You should get the structure that looks something like that
->
-> Branch: Session_2  
->         DzmitryKolb <br>
->              |___ Task1.py <br>              
->              |___ Task2.py
-> 
-> Branch: Session_3  
->         DzmitryKolb <br>
->              |___ Task1.py <br>              
->              |___ Task2.py
->
+```
+ Branch: Session_2  
+        DzmitryKolb
+             |___ Task1.py            
+             |___ Task2.py
+ 
+ Branch: Session_3  
+         DzmitryKolb
+              |___ Task1.py             
+              |___ Task2.py
 
-1. When you finish your work on task you should create Pull request to the appropriate branch of the main repo https://github.com/E-P-T/Homework (Docs: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+```
+1. When you finish your work on the task you should create Pull request to the appropriate branch of the main repo https://github.com/E-P-T/Homework (Docs: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
 Please use the following instructions to prepare good description of the pull request:
 
